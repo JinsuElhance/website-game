@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JinsuElhance/website-game/issues"
   },
-  "homepage": "https://github.com/JinsuElhance/website-game#readme"
+  "homepage": "https://github.com/JinsuElhance/website-game#readme",
+  "dependencies": {
+    "webpack": "^4.23.1"
+  }
 }
