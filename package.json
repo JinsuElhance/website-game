@@ -1,0 +1,19 @@
+{
+  "name": "websitepackages",
+  "version": "1.0.0",
+  "description": "The initial deployment of the website for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinsuElhance/website-game.git"
+  },
+  "author": "JinsuElhance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinsuElhance/website-game/issues"
+  },
+  "homepage": "https://github.com/JinsuElhance/website-game#readme"
+}
